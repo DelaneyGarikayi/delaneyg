@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title: " Garikayi Delaney"
-date: 2025-08-24
+date: 2024-10-24
 type: landing
 
 design:

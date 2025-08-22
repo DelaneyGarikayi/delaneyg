@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title: " Garikayi Delaney"
+title: ""
 date: 2024-10-24
 type: landing
 
@@ -36,14 +36,13 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: '📚 My Interests'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        🔬 My Interests
+I’m a mechatronics engineering student passionate about leveraging digital twin technologies and virtual commissioning to optimize industrial processes. I explore the intersection of automation, sustainability, and energy efficiency in manufacturing, infrastructure, and smart systems. Through hands-on projects and research, I aim to translate advanced engineering concepts into practical solutions that drive innovation and real-world impact. I’m always open to collaboration and knowledge exchange.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
+   
     design:
       columns: '1'
   - block: collection

@@ -39,7 +39,10 @@ sections:
       title: '🔬 My Interests'
       subtitle: ''
       text: |-
-I’m a mechatronics engineering student passionate about leveraging digital twin technologies and virtual commissioning to optimize industrial processes. I explore the intersection of automation, sustainability, and energy efficiency in manufacturing, infrastructure, and smart systems. Through hands-on projects and research, I aim to translate advanced engineering concepts into practical solutions that drive innovation and real-world impact. I’m always open to collaboration and knowledge exchange.
+        I’m a mechatronics engineering student passionate about leveraging digital twin technologies  and virtual commissioning to optimize industrial processes. I explore the intersection of automation, sustainability, and energy efficiency in manufacturing, infrastructure, and smart systems. Through hands-on projects and research, I aim to translate advanced engineering concepts into practical solutions that drive innovation and real-world impact.
+
+
+I’m always open to collaboration and knowledge exchange.
 
    
     design:
